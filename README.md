@@ -51,6 +51,7 @@ sales-data-analysis: The primary dataset used for this analysis is stored in sal
 - Provided full report with plots in *jupyter-notebook* as well as in *sales-data-analysis-dashboard.png*
 
 ### SHARE
+- [Check Out Tableau Dashboard](https://public.tableau.com/app/profile/tahir.malik/viz/sales-data-analysis_17083641553700/Dashboard)
 - Least sales: January ($1,822,256), Most sales: December ($4,613,443)<br /><br />
   ![sales vs month](sales-vs-month.png)
 - San Francisco (CA) had the highest number of sales<br />
@@ -66,7 +67,7 @@ sales-data-analysis: The primary dataset used for this analysis is stored in sal
   Little bit of inconsistency in our insights for *Macbook & Thinkpad laptops*<br />
   Why? Because of certain demand of these laptops among the youth<br />
   ![quantity vs product with prices](quantity-vs-product-with-prices.png)
-
+  
 ### ACT
 - Target advertising efforts during peak hours and focus on popular products like iPhone and charging cables
 - Analyze exceptions to price-quantity relationship and tailor strategies accordingly
