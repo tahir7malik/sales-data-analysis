@@ -2,7 +2,7 @@
 This repository contains code and resources for conducting sales data analysis. The purpose of this project is to explore, analyse, and derive insights from a dataset related to sales of different electronic products.
 ## Project Overview
 
-**Fictional electronic store wants to create an annual sales report for 2022. For understanding their audience better and grow more sales**
+**Fictional electronic store wants to create an annual sales report. For understanding their audience better and grow more sales**
 
 ![Dashboard](sales-data-analysis-dashboard.png)
 
