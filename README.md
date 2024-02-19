@@ -58,7 +58,7 @@ sales-data-analysis: The primary dataset used for this analysis is stored in sal
 - We should advertise more during peak hours around 11 am (11) or 7 pm (19)<br />
   ![orders vs hour](orders-vs-hour.png)
 - iPhone & lightning charging cable are 2 most sold products which are often bought together<br />
-  ![orders vs hour](orders-vs-hour.png)
+  ![iphone & lightning charging cable](iphone-lightning-charging-cable.png)
 - Most Sold: AAA-Batteries (4 Pack) [Cheaper], Least Sold: LG Dryer [Costlier]<br />
   ![quantity vs product](quantity-vs-product.png)
   - **Hypothesis**: Quantity is inversely proportional to its price<br />
