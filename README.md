@@ -51,21 +51,21 @@ sales-data-analysis: The primary dataset used for this analysis is stored in sal
 - Provided full report with plots in *jupyter-notebook* as well as in *sales-data-analysis-dashboard.png*
 
 ### SHARE
-- Least sales: January ($1,822,256), Most sales: December ($4,613,443)
-  [sales vs month](sales-vs-month.png)
-- San Francisco (CA) had the highest number of sales
-  [sales vs city](sales-vs-city.png)
-- We should advertise more during peak hours around 11 am (11) or 7 pm (19)
-  [orders vs hour](orders-vs-hour.png)
-- iPhone & lightning charging cable are 2 most sold products which are often bought together
-  [orders vs hour](orders-vs-hour.png)
-- Most Sold: AAA-Batteries (4 Pack) [Cheaper], Least Sold: LG Dryer [Costlier]
-  [quantity vs product](quantity-vs-product.png)
+- Least sales: January ($1,822,256), Most sales: December ($4,613,443)<br /><br />
+  ![sales vs month](sales-vs-month.png)
+- San Francisco (CA) had the highest number of sales<br />
+  ![sales vs city](sales-vs-city.png)
+- We should advertise more during peak hours around 11 am (11) or 7 pm (19)<br />
+  ![orders vs hour](orders-vs-hour.png)
+- iPhone & lightning charging cable are 2 most sold products which are often bought together<br />
+  ![orders vs hour](orders-vs-hour.png)
+- Most Sold: AAA-Batteries (4 Pack) [Cheaper], Least Sold: LG Dryer [Costlier]<br />
+  ![quantity vs product](quantity-vs-product.png)
   - **Hypothesis**: Quantity is inversely proportional to its price<br />
   - **Exception:** 
     Little bit of inconsistency in our insights for *Macbook & Thinkpad laptops*<br />
-    Why? Because of certain demand of these laptops among the youth
-    [quantity vs product with prices](quantity-vs-product-with-prices.png)
+    Why? Because of certain demand of these laptops among the youth<br />
+    ![quantity vs product with prices](quantity-vs-product-with-prices.png)
 
 ### ACT
 - Target advertising efforts during peak hours and focus on popular products like iPhone and charging cables
