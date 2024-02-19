@@ -61,11 +61,11 @@ sales-data-analysis: The primary dataset used for this analysis is stored in sal
   ![iphone & lightning charging cable](iphone-lightning-charging-cable.png)
 - Most Sold: AAA-Batteries (4 Pack) [Cheaper], Least Sold: LG Dryer [Costlier]<br />
   ![quantity vs product](quantity-vs-product.png)
-  - **Hypothesis**: Quantity is inversely proportional to its price<br />
-  - **Exception:** 
-    Little bit of inconsistency in our insights for *Macbook & Thinkpad laptops*<br />
-    Why? Because of certain demand of these laptops among the youth<br />
-    ![quantity vs product with prices](quantity-vs-product-with-prices.png)
+- **Hypothesis**: Quantity is inversely proportional to its price<br />
+  **Exception:** 
+  Little bit of inconsistency in our insights for *Macbook & Thinkpad laptops*<br />
+  Why? Because of certain demand of these laptops among the youth<br />
+  ![quantity vs product with prices](quantity-vs-product-with-prices.png)
 
 ### ACT
 - Target advertising efforts during peak hours and focus on popular products like iPhone and charging cables
